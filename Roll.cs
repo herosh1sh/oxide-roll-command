@@ -15,7 +15,7 @@ namespace Oxide.Plugins {
             var random = new Random();
             int randomNumber = random.Next(1, 100);
 
-            player.ChatMessage($"You rolled a: {randomNumber}")
+            player.ChatMessage($"Вам выпало случайное число: {randomNumber}")
         }
     }
 }
