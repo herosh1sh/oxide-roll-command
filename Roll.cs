@@ -1,10 +1,10 @@
 using System;
+using Oxide.Core.Plugins;
 using Oxide.Core.Libraries.Covalence;
-using Oxide.Plugins;
 
 namespace Oxide.Plugins {
     [Info("Roll - random number generator", "Artem Shumilov a.k.a. Herosh1", "0.1")]
-    [Description("Плагин добавляющий команду /roll которая выводит в чат случайное число от 1 до 100")]
+    [Description("Plugin adds the command /roll which outputs a random number from 1 to 100 in chat.")]
 
     public class program : RustPlugin {
         [ChatCommand("roll")]
