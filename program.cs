@@ -1,9 +1,7 @@
+using System;
 using System.Xml.Xsl.Runtime;
-Using Oxide.Plugins;
-using Oxide.Framework;
-using Oxide.Framework.Extensions;
-using Oxide.Framework.Interfaces;
-using Oxide.Framework.Interfaces.
+using Oxide.Plugins;
+using Oxide.Libraries.Covalence;
 
 namespace Oxide.Plugins {
     [Info("Roll - random number generator", "Artem Shumilov a.k.a. Herosh1", "0.1")]
