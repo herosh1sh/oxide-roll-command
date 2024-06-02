@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R7J9J2xWRDrFE/D7UY/ZFVu2RJ0Li3h42GnJASDtc9tXHpZi3u5YYVjkCmVbv90U34T6lqz6AN0XPrBkDoprSA==",
+  "dgSpecHash": "IUDgIAc6WDWUYitTV1GakORYViQqoTfWL6B+8dzDYXY62qJcgfkXNbTz4PaquKBGeNCy6+XZYUMQAjJ+l7me3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hahyo\\OneDrive\\Документы\\GitHub\\roll-plugin-oxide\\rust.oxide.live.csproj",
+  "projectFilePath": "C:\\Users\\hahyo\\OneDrive\\Документы\\GitHub\\oxide-roll-command\\rust.oxide.live.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

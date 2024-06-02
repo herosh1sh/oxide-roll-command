@@ -1,9 +1,6 @@
-using System.Xml.Xsl.Runtime;
-Using Oxide.Plugins;
-using Oxide.Framework;
-using Oxide.Framework.Extensions;
-using Oxide.Framework.Interfaces;
-using Oxide.Framework.Interfaces.
+using System;
+using Oxide.Core.Libraries.Covalence;
+using Oxide.Plugins;
 
 namespace Oxide.Plugins {
     [Info("Roll - random number generator", "Artem Shumilov a.k.a. Herosh1", "0.1")]
@@ -15,7 +12,7 @@ namespace Oxide.Plugins {
             var random = new Random();
             int randomNumber = random.Next(1, 100);
 
-            player.ChatMessage($"Вам выпало случайное число: {randomNumber}")
+            player.Message($"You rolled a: {randomNumber}");
         }
     }
 }

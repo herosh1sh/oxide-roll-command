@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hahyo\\OneDrive\\Документы\\GitHub\\roll-plugin-oxide\\rust.oxide.live.csproj": {}
+    "C:\\Users\\hahyo\\OneDrive\\Документы\\GitHub\\oxide-roll-command\\rust.oxide.live.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hahyo\\OneDrive\\Документы\\GitHub\\roll-plugin-oxide\\rust.oxide.live.csproj": {
+    "C:\\Users\\hahyo\\OneDrive\\Документы\\GitHub\\oxide-roll-command\\rust.oxide.live.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hahyo\\OneDrive\\Документы\\GitHub\\roll-plugin-oxide\\rust.oxide.live.csproj",
+        "projectUniqueName": "C:\\Users\\hahyo\\OneDrive\\Документы\\GitHub\\oxide-roll-command\\rust.oxide.live.csproj",
         "projectName": "rust.oxide.live",
-        "projectPath": "C:\\Users\\hahyo\\OneDrive\\Документы\\GitHub\\roll-plugin-oxide\\rust.oxide.live.csproj",
+        "projectPath": "C:\\Users\\hahyo\\OneDrive\\Документы\\GitHub\\oxide-roll-command\\rust.oxide.live.csproj",
         "packagesPath": "C:\\Users\\hahyo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hahyo\\OneDrive\\Документы\\GitHub\\roll-plugin-oxide\\obj\\",
+        "outputPath": "C:\\Users\\hahyo\\OneDrive\\Документы\\GitHub\\oxide-roll-command\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

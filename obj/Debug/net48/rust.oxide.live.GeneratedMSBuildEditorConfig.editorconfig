@@ -1,5 +1,5 @@
 is_global = true
 build_property.RootNamespace = rust.oxide.live
-build_property.ProjectDir = C:\Users\hahyo\OneDrive\Документы\GitHub\roll-plugin-oxide\
+build_property.ProjectDir = C:\Users\hahyo\OneDrive\Документы\GitHub\oxide-roll-command\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
